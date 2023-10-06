@@ -1,0 +1,12 @@
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  
+  rules:
+    - camel_case_types
+    - avoid_catches_without_on_clauses
+    - avoid_empty_else
+    - lines_longer_than_80_chars
+    - curly_braces_in_flow_control_structures
+
